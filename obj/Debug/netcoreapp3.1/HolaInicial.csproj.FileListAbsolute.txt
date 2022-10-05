@@ -1,0 +1,13 @@
+D:\Ejemplo49\HolaInicial\bin\Debug\netcoreapp3.1\HolaInicial.exe
+D:\Ejemplo49\HolaInicial\bin\Debug\netcoreapp3.1\HolaInicial.deps.json
+D:\Ejemplo49\HolaInicial\bin\Debug\netcoreapp3.1\HolaInicial.runtimeconfig.json
+D:\Ejemplo49\HolaInicial\bin\Debug\netcoreapp3.1\HolaInicial.runtimeconfig.dev.json
+D:\Ejemplo49\HolaInicial\bin\Debug\netcoreapp3.1\HolaInicial.dll
+D:\Ejemplo49\HolaInicial\bin\Debug\netcoreapp3.1\HolaInicial.pdb
+D:\Ejemplo49\HolaInicial\obj\Debug\netcoreapp3.1\HolaInicial.csprojAssemblyReference.cache
+D:\Ejemplo49\HolaInicial\obj\Debug\netcoreapp3.1\HolaInicial.AssemblyInfoInputs.cache
+D:\Ejemplo49\HolaInicial\obj\Debug\netcoreapp3.1\HolaInicial.AssemblyInfo.cs
+D:\Ejemplo49\HolaInicial\obj\Debug\netcoreapp3.1\HolaInicial.csproj.CoreCompileInputs.cache
+D:\Ejemplo49\HolaInicial\obj\Debug\netcoreapp3.1\HolaInicial.dll
+D:\Ejemplo49\HolaInicial\obj\Debug\netcoreapp3.1\HolaInicial.pdb
+D:\Ejemplo49\HolaInicial\obj\Debug\netcoreapp3.1\HolaInicial.genruntimeconfig.cache
